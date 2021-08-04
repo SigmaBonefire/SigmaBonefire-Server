@@ -6,7 +6,7 @@ SigmaBonefire webserver.
 
 Use CMake to generate project files.
 
-# License
+## License
 MIT License
 
 Copyright (c) 2021 SigmaBonefire contributors.
