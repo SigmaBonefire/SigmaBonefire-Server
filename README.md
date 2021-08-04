@@ -2,6 +2,10 @@
 
 SigmaBonefire webserver.
 
+## Building
+
+Use CMake to generate project files.
+
 # License
 MIT License
 
