@@ -1,8 +1,8 @@
-#SigmaBonefire Server
+# SigmaBonefire Server
 
 SigmaBonefire webserver.
 
-#License
+# License
 MIT License
 
 Copyright (c) 2021 SigmaBonefire contributors.
